@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this evidence base, please cite it using the metadata below."
+type: dataset
+title: "Enterprise AI App Development Landscape"
+abstract: "A versioned evidence base for enterprise low-code platforms, AI app builders, and AI coding tools."
+authors:
+  - name: "Convertigo"
+version: 0.2.0
+date-released: 2026-08-13
+license: CC-BY-4.0
+repository-code: "https://github.com/open-enterprise-apps/enterprise-ai-app-development"
+url: "https://github.com/open-enterprise-apps/enterprise-ai-app-development"
+keywords:
+  - low-code
+  - artificial intelligence
+  - AI app builder
+  - AI coding agent
+  - enterprise software
+  - platform evaluation
+  - open source
+  - dataset

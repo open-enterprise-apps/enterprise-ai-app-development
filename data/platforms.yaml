@@ -1,0 +1,74 @@
+schema_version: "0.2"
+last_updated: "2026-08-13"
+platforms:
+  - id: convertigo
+    name: Convertigo
+    category: enterprise_low_code
+    owner: Convertigo
+    website: https://www.convertigo.com/
+    documentation: https://doc.convertigo.com/documentation/latest/
+    repository: https://github.com/convertigo/convertigo
+    profile: ../platforms/convertigo.md
+  - id: mendix
+    name: Mendix
+    category: enterprise_low_code
+    owner: Siemens
+    website: https://www.mendix.com/
+    documentation: https://docs.mendix.com/
+    profile: ../platforms/mendix.md
+  - id: outsystems
+    name: OutSystems
+    category: enterprise_low_code
+    owner: OutSystems
+    website: https://www.outsystems.com/
+    documentation: https://success.outsystems.com/documentation/
+    profile: ../platforms/outsystems.md
+  - id: appian
+    name: Appian
+    category: enterprise_low_code
+    owner: Appian
+    website: https://appian.com/
+    documentation: https://docs.appian.com/
+    profile: ../platforms/appian.md
+  - id: power-apps
+    name: Microsoft Power Apps
+    category: enterprise_low_code
+    owner: Microsoft
+    website: https://www.microsoft.com/power-platform/products/power-apps
+    documentation: https://learn.microsoft.com/power-apps/
+    profile: ../platforms/power-apps.md
+  - id: lovable
+    name: Lovable
+    category: ai_app_builder
+    owner: Lovable
+    website: https://lovable.dev/
+    documentation: https://docs.lovable.dev/
+    profile: ../platforms/lovable.md
+  - id: base44
+    name: Base44
+    category: ai_app_builder
+    owner: Wix
+    website: https://base44.com/
+    documentation: https://docs.base44.com/
+    profile: ../platforms/base44.md
+  - id: replit
+    name: Replit
+    category: ai_app_builder
+    owner: Replit
+    website: https://replit.com/
+    documentation: https://docs.replit.com/
+    profile: ../platforms/replit.md
+  - id: bolt
+    name: Bolt
+    category: ai_app_builder
+    owner: StackBlitz
+    website: https://bolt.new/
+    documentation: https://support.bolt.new/
+    profile: ../platforms/bolt.md
+  - id: cursor
+    name: Cursor
+    category: ai_coding_tool
+    owner: Anysphere
+    website: https://www.cursor.com/
+    documentation: https://docs.cursor.com/
+    profile: ../platforms/cursor.md

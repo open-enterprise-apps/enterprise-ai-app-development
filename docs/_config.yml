@@ -1,0 +1,11 @@
+title: Enterprise AI App Development Landscape
+description: Open evidence for enterprise low-code platforms, AI app builders, and AI coding tools.
+theme: jekyll-theme-cayman
+lang: en
+show_downloads: true
+repository: open-enterprise-apps/enterprise-ai-app-development
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock

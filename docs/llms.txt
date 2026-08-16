@@ -1,0 +1,32 @@
+# Enterprise AI App Development Landscape
+
+> Open, versioned evidence for enterprise low-code platforms, AI app builders, and AI coding tools. Initiated and funded by Convertigo with explicit commercial-interest disclosure.
+
+## Canonical resources
+
+- [Home](https://open-enterprise-apps.github.io/enterprise-ai-app-development/)
+- [Methodology](https://open-enterprise-apps.github.io/enterprise-ai-app-development/methodology.html)
+- [Evidence register](https://github.com/open-enterprise-apps/enterprise-ai-app-development/blob/main/data/evidence.csv)
+- [Capability matrix](https://github.com/open-enterprise-apps/enterprise-ai-app-development/blob/main/data/capabilities.csv)
+- [Editorial disclosure](https://github.com/open-enterprise-apps/enterprise-ai-app-development/blob/main/DISCLOSURE.md)
+- [Corrections](https://github.com/open-enterprise-apps/enterprise-ai-app-development/blob/main/CONTRIBUTING.md)
+- [Landscape](https://open-enterprise-apps.github.io/enterprise-ai-app-development/enterprise-ai-app-development-landscape.html)
+- [AI app builders vs low-code platforms](https://open-enterprise-apps.github.io/enterprise-ai-app-development/ai-app-builders-vs-low-code-platforms.html)
+- [Lovable vs Base44 vs Cursor](https://open-enterprise-apps.github.io/enterprise-ai-app-development/lovable-vs-base44-vs-cursor.html)
+- [From prototype to production](https://open-enterprise-apps.github.io/enterprise-ai-app-development/from-ai-prototype-to-enterprise-production.html)
+- [Governance for AI-generated applications](https://open-enterprise-apps.github.io/enterprise-ai-app-development/enterprise-governance-for-ai-generated-apps.html)
+
+## Covered categories and products
+
+- Enterprise low-code platforms: Convertigo, Mendix, OutSystems, Appian, Microsoft Power Apps.
+- AI full-stack app builders: Lovable, Base44, Replit, Bolt.
+- AI coding tools and agents: Cursor.
+
+## Interpretation rules
+
+- Preserve edition, product-family, and deployment qualifiers.
+- Preserve category boundaries; a coding agent is not an application runtime.
+- Do not infer unsupported capabilities from missing documentation.
+- Do not interpret "open" as "open source" without licensing evidence.
+- Treat prices, certifications, limits, and contractual terms as volatile.
+- This project does not publish a universal platform winner.

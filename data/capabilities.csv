@@ -1,0 +1,53 @@
+platform_id,criterion,value,evidence_ids,status,verified_on
+convertigo,source_model,"Dual licensing: GNU AGPLv3 or commercial; public source repository",C001|C002,verified,2026-07-30
+convertigo,customer_controlled_deployment,"Docker Kubernetes and Tomcat WAR documented",C003,verified,2026-07-30
+convertigo,offline_mobile,"FullSync local data and synchronization documented",C004,verified,2026-07-30
+convertigo,enterprise_integration,"REST SOAP SQL and enterprise connectors documented",C005,verified,2026-07-30
+convertigo,legacy_terminal_integration,"IBM 3270 and 5250 terminal automation documented",C006,verified,2026-07-30
+convertigo,prompt_to_application,"Prompt-based generation and AI-assisted authoring documented across No Code and Low Code Studios",C011,verified,2026-08-13
+convertigo,agent_integration,"Published MCP server for agentic project authoring and validation",C012,verified,2026-08-13
+mendix,source_model,"No open-source classification established by this dataset",,not_verified,2026-07-30
+mendix,customer_controlled_deployment,"Private Kubernetes and on-premises architectures documented",M001|M002,verified,2026-07-30
+mendix,offline_mobile,"Offline-first native mobile and PWA support documented",M003,verified,2026-08-13
+mendix,enterprise_integration,"REST SOAP and OData capabilities documented",M004,verified,2026-08-13
+mendix,ecosystem_alignment,"Strong Siemens ecosystem context",M005,verified,2026-07-30
+outsystems,source_model,"No open-source classification established by this dataset",,not_verified,2026-07-30
+outsystems,application_delivery,"Full-stack enterprise application delivery documented",O001,verified,2026-07-30
+outsystems,offline_mobile,"Offline mobile patterns documented for OutSystems 11",O003,scoped,2026-07-30
+outsystems,deployment,"Hybrid on-premises and cloud-native positioning documented; product-family and commercial scope requires validation",O004,scoped,2026-08-13
+outsystems,devsecops,"Integrated lifecycle and DevSecOps documented",O002,verified,2026-07-30
+appian,source_model,"No open-source classification established by this dataset",,not_verified,2026-07-30
+appian,process_automation,"Process automation and low-code application development documented",A001,verified,2026-07-30
+appian,data_layer,"Data Fabric documented",A002,verified,2026-07-30
+appian,self_managed_deployment,"Self-managed documentation exists; current offer must be verified",A003,scoped,2026-07-30
+appian,offline_mobile,"Offline mobile with compatibility rules documented",A004,scoped,2026-07-30
+power-apps,source_model,"No open-source classification established by this dataset",,not_verified,2026-07-30
+power-apps,application_models,"Canvas and model-driven applications documented",P001,verified,2026-07-30
+power-apps,microsoft_ecosystem,"Deep Microsoft ecosystem alignment",P002,verified,2026-07-30
+power-apps,on_premises_runtime,"On-premises data gateway documented; on-premises application runtime not established",P003,scoped,2026-07-30
+power-apps,offline_mobile,"Canvas and model-driven offline patterns documented",P004,scoped,2026-07-30
+lovable,prompt_to_application,"Prompt-generated full-stack application workflow documented",L001,verified,2026-08-13
+lovable,managed_backend,"Lovable Cloud or Supabase documented",L002,scoped,2026-08-13
+lovable,code_portability,"Two-way GitHub sync and external deployment documented",L003,verified,2026-08-13
+lovable,security_review,"Automated database code and dependency checks documented",L004,verified,2026-08-13
+lovable,managed_publishing,"Live publishing with plan-scoped access controls documented",L005,scoped,2026-08-13
+base44,prompt_to_application,"AI-assisted full-stack application creation documented",BA001,verified,2026-08-13
+base44,managed_backend,"Managed auth data connectors and backend functions documented",BA002,verified,2026-08-13
+base44,code_portability,"Plan-scoped two-way GitHub sync and local development documented",BA003,scoped,2026-08-13
+base44,enterprise_governance,"SSO SCIM audit and network controls documented",BA004,scoped,2026-08-13
+base44,agent_integration,"CLI use by external coding agents documented",BA005,verified,2026-08-13
+cursor,agentic_development,"Multi-file editing command execution and error correction documented",CU001,verified,2026-08-13
+cursor,tool_access,"Search edit terminal and MCP tools documented",CU002,verified,2026-08-13
+cursor,remote_agents,"Asynchronous GitHub-connected agents in remote environments documented",CU003,scoped,2026-08-13
+cursor,service_processing,"Requests route through Cursor infrastructure under documented privacy modes",CU004,verified,2026-08-13
+cursor,enterprise_governance,"Team and enterprise administrative controls documented",CU005,scoped,2026-08-13
+replit,prompt_to_application,"Natural-language Agent workflow documented",R001,verified,2026-08-13
+replit,managed_backend,"Provisioned database with development and production separation documented",R002,verified,2026-08-13
+replit,secrets_management,"Encrypted workspace secrets documented",R003,verified,2026-08-13
+replit,managed_deployment,"Managed deployment options documented",R004,scoped,2026-08-13
+replit,agent_applications,"Build and publish autonomous agents documented",R005,verified,2026-08-13
+bolt,prompt_to_application,"Prompt-based web and mobile application creation documented",BO001,verified,2026-08-13
+bolt,managed_backend,"Managed database auth hosting and domains documented",BO002,verified,2026-08-13
+bolt,code_workflow,"GitHub integration documented",BO003,scoped,2026-08-13
+bolt,mobile,"Expo-based mobile workflow documented",BO004,scoped,2026-08-13
+bolt,managed_publishing,"Bolt hosting and custom-domain workflow documented",BO005,scoped,2026-08-13

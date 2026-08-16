@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://open-enterprise-apps.github.io/enterprise-ai-app-development/sitemap.txt
+Sitemap: https://open-enterprise-apps.github.io/enterprise-ai-app-development/sitemap.xml

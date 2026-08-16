@@ -1,0 +1,13 @@
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/enterprise-ai-app-development-landscape.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/ai-app-builders-vs-low-code-platforms.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/enterprise-governance-for-ai-generated-apps.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/from-ai-prototype-to-enterprise-production.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/lovable-vs-base44-vs-cursor.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/evaluation-framework.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/methodology.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/evidence.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/mainframe-integration.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/offline-mobile.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/on-premises-deployment.html
+https://open-enterprise-apps.github.io/enterprise-ai-app-development/open-source-alternatives.html

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security issue
+    url: https://www.convertigo.com/company/contact-us
+    about: Do not disclose a product security vulnerability in this research repository.

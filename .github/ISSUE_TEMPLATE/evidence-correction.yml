@@ -1,0 +1,56 @@
+name: Evidence correction
+description: Propose a sourced correction to a platform claim or capability record.
+title: "[Evidence correction] "
+labels:
+  - evidence
+  - correction
+body:
+  - type: input
+    id: evidence_id
+    attributes:
+      label: Evidence or capability ID
+      description: Enter the evidence ID or platform/criterion pair.
+      placeholder: C004 or convertigo/offline_mobile
+    validations:
+      required: true
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: Type of change
+      options:
+        - Incorrect fact
+        - Outdated source
+        - Missing qualifier
+        - Missing evidence
+        - Broken link
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_change
+    attributes:
+      label: Proposed correction
+      description: State the current wording and the proposed bounded wording.
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Public source URL
+      placeholder: https://vendor.example/documentation/page
+    validations:
+      required: true
+  - type: input
+    id: scope
+    attributes:
+      label: Product scope
+      description: Product family, edition, deployment model, and effective version or date.
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Relevant affiliation
+      description: Disclose employment, sponsorship, consulting, or another relationship with an evaluated vendor. Write "None" when not applicable.
+    validations:
+      required: true
